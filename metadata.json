@@ -1,0 +1,6 @@
+{
+  "name": "AGEN KESAN",
+  "description": "Aplikasi penjualan air demineral KESAN untuk agen: kasir penjualan langsung, riwayat penjualan dan piutang, order pabrik dan stok otomatis, laporan keuangan dan peta penjualan, serta manajemen toko.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
